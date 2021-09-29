@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "name": "KHÓA HỌC ANH NGỮ CHUYÊN NGÀNH 22",
+      "description": "Bao gồm nhiều khóa học ngắn hạn tập trung vào những ngành nghề hoặc lĩnh vực chuyên biệt. Học viên được học nhiều từ vựng chuyên ngành và các kỹ năng đặc biệt để giúp học viên giao tiếp tự tin và hiệu quả.2",
+      "id": 2
+    },
+    {
+      "name": "KHÓA HỌC ANH NGỮ CHUYÊN NGÀNH 2",
+      "description": "Bao gồm nhiều khóa học ngắn hạn tập trung vào những ngành nghề hoặc lĩnh vực chuyên biệt. Học viên được học nhiều từ vựng chuyên ngành và các kỹ năng đặc biệt để giúp học viên giao tiếp tự tin và hiệu quả.2",
+      "id": 3
+    },
+    {
+      "name": "KHÓA HỌC ANH NGỮ CHUYÊN NGÀNH 288",
+      "description": "Bao gồm nhiều khóa học ngắn hạn tập trung vào những ngành nghề hoặc lĩnh vực chuyên biệt. Học viên được học nhiều từ vựng chuyên ngành và các kỹ năng đặc biệt để giúp học viên giao tiếp tự tin và hiệu quả.2",
+      "id": 4
+    }
+  ]
+}
